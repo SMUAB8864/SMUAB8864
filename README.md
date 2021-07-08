@@ -12,12 +12,6 @@
     * To further understand the inner workings of the operating system and to help contribute to the advancement of these systems. 
 - Why did you build this project? 
     * To give future employees a clear picture of what I can do and to help me understand what I have I have done. 
-- What problem does it solve?
-    * ?
-- What did you learn?
-    * ?
-- What makes your project stand out?
-    * ?
 
 
 
