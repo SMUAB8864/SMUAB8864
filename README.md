@@ -1,8 +1,9 @@
-### Hello my name is Aaron. 👋
+### Hello Aaron, here. 👋
 
 
 - 🔭 I’m currently working on ... studing coding in BootCamp at SMU. 
 - 🌱 I’m currently learning ... Object-Oriented Programming or OOP for short.
+- Here is my LinkeIn profile: https://www.linkedin.com/in/aaronbayat1445aa193/
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ... My email is smubayat@icloud.com
